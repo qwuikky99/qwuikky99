@@ -9,15 +9,15 @@ I rarely code anything, but whenever I do it is always equally as useless, simpl
 
 i'm a minor btw yeah gonna leave that here just in case
 # Projects
-- [MicroShell](axxydr1xed/microshell)
+- [MicroShell](https://github.com/axxydr1xed/microshell)
   
-- [Slashphabet](axxydr1xed/slashphabet)
+- [Slashphabet](https://github.com/axxydr1xed/slashphabet)
 
-- [FunnyHub](axxydr1xed/FunnyHub) <- Deprecated
+- [FunnyHub](https://github.com/axxydr1xed/FunnyHub) <- Deprecated
 
-- [DumbassCalculator](axxydr1xed/DumbassCalculator) <- Ditto
+- [DumbassCalculator](https://github.com/axxydr1xed/DumbassCalculator) <- Ditto
 
-- [WordCombiner](axxydr1xed/WordCombiner) <- Ditto
+- [WordCombiner](https://github.com/axxydr1xed/WordCombiner) <- Ditto
 
 can you tell that i've only just came back to github because of the sheer insanity of the skill difference between the projects
 # Socials
