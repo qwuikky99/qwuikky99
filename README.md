@@ -9,6 +9,8 @@ I rarely code anything, but whenever I do it is always equally as useless, simpl
 
 i'm a minor btw yeah gonna leave that here just in case
 # Projects
+- [PYpaint](https://github.com/axxydr1xed/PYpaint)
+
 - [MicroShell](https://github.com/axxydr1xed/microshell)
   
 - [Slashphabet](https://github.com/axxydr1xed/slashphabet)
