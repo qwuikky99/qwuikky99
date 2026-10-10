@@ -8,7 +8,8 @@ he/any
 I rarely code anything, but whenever I do it is always equally as useless, simple and dumb. 
 
 i'm a minor btw yeah gonna leave that here just in case
-<details>Projects
+<details>
+  <summary>Projects</summary>
 - [PYpaint](https://github.com/qwuikky99/PYpaint)
 
 - [MicroShell](https://github.com/qwuikky99/microshell)
@@ -22,7 +23,8 @@ i'm a minor btw yeah gonna leave that here just in case
 - [WordCombiner](https://github.com/qwuikky99/WordCombiner) <- Ditto
 </details>
 can you tell that i've only just came back to github because of the sheer insanity of the skill difference between the projects
-<details>Socials
+<details>
+<summary>Socials</summary>
 
 Discord - axxydr1xed
 
@@ -30,7 +32,8 @@ Telegram channel - [da qwuikky](t.me/@qwuikkkky)
 
 Steam - [max](https://steamcommunity.com/profiles/76561198776527518/)
 </details>
-<details>Credits
+<details>
+<summary>Credits</summary>
 
 [Pixelorama](https://pixelorama.org/) for every pixel-art to ever appear on my repos
 
