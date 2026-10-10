@@ -21,8 +21,9 @@ i'm a minor btw yeah gonna leave that here just in case
 - [DumbassCalculator](https://github.com/qwuikky99/DumbassCalculator) <- Ditto
 
 - [WordCombiner](https://github.com/qwuikky99/WordCombiner) <- Ditto
-</details>
+
 can you tell that i've only just came back to github because of the sheer insanity of the skill difference between the projects
+</details>
 <details>
 <summary>Socials</summary>
 
