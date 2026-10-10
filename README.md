@@ -9,7 +9,8 @@ I rarely code anything, but whenever I do it is always equally as useless, simpl
 
 i'm a minor btw yeah gonna leave that here just in case
 <details>
-  <summary>Projects</summary>
+<summary>Projects</summary>
+
 - [PYpaint](https://github.com/qwuikky99/PYpaint)
 
 - [MicroShell](https://github.com/qwuikky99/microshell)
